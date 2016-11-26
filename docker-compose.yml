@@ -1,0 +1,39 @@
+version: '2'
+services:
+  db:
+    environment:
+      - MYSQL_ROOT_PASSWORD="qwerty"
+      - MYSQL_DATABASE="pset7"
+      - MYSQL_USER="pset7"
+      - MYSQL_PASSWORD="1"
+    image: mariadb:10.1.19
+    expose:
+      - "3306"
+    volumes:
+      - ./db/conf.d:/etc/mysql/conf.d
+      - ./db/data:/var/lib/mysql
+      - ./db/maintenance:/maintenance
+  http:
+    environment:
+      - NGINX_HOST=pset7.local
+      - NGINX_PORT=80
+    image: nginx:1.10.2
+    ports:
+      - "8080:80"
+      - "8443:443"
+    volumes:
+      - ./http/web:/code
+      - ./http/log:/var/log/nginx
+      - ./http/conf/site.conf:/etc/nginx/conf.d/site.conf
+    links:
+      - phpfpm
+  phpfpm:
+    image: 'bitnami/php-fpm:latest'
+    expose:
+      - '9000'
+    volumes:
+      - ./http/web:/code
+    links:
+      - db
+#volumes:
+

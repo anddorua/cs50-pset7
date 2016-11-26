@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9fcd94a-fdd0-43b2-9a9d-586310deb2b1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/contrib/google/php-openid-apps-discover-1.0.1.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/pset7.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/maintenance/mysql.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/maintenance/pset7.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker-compose.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/conf/site.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/includes/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/includes/helpers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/hello.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/js/jquery-1.11.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/public/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/CS50.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/AX.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/Association.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/BigMath.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/Consumer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/CryptUtil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/DatabaseConnection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/DiffieHellman.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/Discover.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/DumbStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/Extension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/FileStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/HMAC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/Interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/KVForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/MDB2Store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/MemcachedStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/Message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/MySQLStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/Nonce.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/PAPE.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/Parse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/PostgreSQLStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/PredisStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/SQLStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/SQLiteStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/SReg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/ServerRequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/TrustRoot.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/OpenID/URINorm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/Yadis/HTTPFetcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/Yadis/Manager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/Yadis/Misc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/Yadis/ParanoidHTTPFetcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/Yadis/ParseHTML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/Yadis/PlainHTTPFetcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/Yadis/XML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/Yadis/XRDS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/Yadis/XRI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/Yadis/XRIRes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Auth/Yadis/Yadis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/CHANGES-2.1.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/NEWS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/README.Debian" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/README.git" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/AX.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/Association.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/AssociationResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/AuthRequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/BigMath.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/Consumer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/CryptUtil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/DiffieHellman.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/Discover_OpenID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/Extension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/HMAC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/KVForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/MemStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/Message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/Negotiation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/Nonce.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/OpenID_Yadis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/PAPE.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/Parse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/RPVerify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/SReg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/StoreTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/TestUtil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/TrustRoot.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/URINorm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/Util.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/VerifyDisco.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/dhexch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/dhpriv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/hmac-sha1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/hmac-sha256.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/linkparse.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/n2b64" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/openid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_openid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_openid2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_openid2_xrds.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_openid2_xrds_no_local_id.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_openid_1_and_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_openid_1_and_2_xrds.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_openid_1_and_2_xrds_bad_delegate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_openid_and_yadis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_openid_no_delegate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_openid_ssl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_yadis_0entries.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_yadis_2_bad_local_id.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_yadis_2entries_delegate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_yadis_2entries_idp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_yadis_another_delegate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_yadis_idp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_yadis_idp_delegate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/test_discover_yadis_no_delegate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/trustroot.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/OpenID/data/urinorm.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/DiscoverData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/Discover_Yadis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/ParseHTML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/TestUtil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/XRDS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/XRI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/Yadis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/accept.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/brian.multi.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/brian.multi_uri.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/brian.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/brian_priority.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/delegated-20060809-r1.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/delegated-20060809-r2.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/delegated-20060809.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/example-xrds.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/no-xrd.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/not-xrds.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/pip.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/prefixsometimes.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/ref.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/sometimesprefix.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/spoof1.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/spoof2.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/spoof3.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/subsegments.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/test1-discover.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/test1-parsehtml.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/test1-xrd.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/Auth/Yadis/data/uri_priority.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/Tests/TestDriver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/adminutil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/brace_style.pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/checkimport" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/checkimports" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/darcs-ignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/docblocks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/docblocks.pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/findallphp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/findglobals" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/findphp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/fixperms" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/gettlds.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/library-name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/longlines.pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/makedoc.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/mathlib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/nobadbraces" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/nobadcase" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/nolonglines" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/notabs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/open_tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/otb_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/package.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/package2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/packagexml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/phpaliases.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/prepare-release" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/runtests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/syntaxcheck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/texttest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/tutorials/OpenID/OpenID.pkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/webtest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/admin/xmlconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/contrib/signed_assertions/AP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/contrib/signed_assertions/SAML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/contrib/upgrade-store-1.1-to-2.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/consumer/common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/consumer/finish_auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/consumer/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/consumer/try_auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/detect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/discover.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/lib/actions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/lib/common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/lib/render.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/lib/render/about.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/lib/render/idpXrds.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/lib/render/idpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/lib/render/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/lib/render/trust.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/lib/render/userXrds.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/lib/session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/openid-server.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/vendor/library50-php-5/CS50/share/php-openid-2.3.0/examples/server/setup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/views/apology.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/views/dump.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/views/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/views/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/views/login_form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/web/views/portfolio.php" />
+    </list>
+    <ignored path="pset7.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="pset7" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="site.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/http/conf/site.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/http/web/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.3333333">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="access.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/http/log/access.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/http/log/error.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/db/maintenance/mysql.sh" />
+        <option value="$PROJECT_DIR$/db/maintenance/pset7.sql" />
+        <option value="$PROJECT_DIR$/http/web/public/hello.html" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/http/web/config.json" />
+        <option value="$PROJECT_DIR$/http/conf/site.conf" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1215" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pset7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pset7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pset7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pset7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pset7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pset7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pset7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="log" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pset7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pset7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pset7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pset7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/http" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9fcd94a-fdd0-43b2-9a9d-586310deb2b1" name="Default" comment="" />
+      <created>1480194728545</created>
+      <option name="number" value="Default" />
+      <updated>1480194728545</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1215" height="1000" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25491872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/db/maintenance/pset7.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.25096524">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/maintenance/mysql.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.032906763">
+          <caret line="1" column="69" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/web/public/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22950819">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/log/access.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/web/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/log/error.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/web/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3333333">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/conf/site.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
